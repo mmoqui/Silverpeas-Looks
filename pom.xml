@@ -4,11 +4,11 @@
   <parent>
     <groupId>org.silverpeas</groupId>
     <artifactId>silverpeas-project</artifactId>
-    <version>1.5-build220609</version>
+    <version>1.5-wildfly26</version>
   </parent>
   
   <artifactId>looks</artifactId>
-  <version>6.3-SNAPSHOT</version>
+  <version>6.3-wildfly26</version>
   <packaging>pom</packaging>
   <name>Silverpeas Looks</name>
   
